@@ -1,2 +1,3 @@
-var name = "charan";
-console.log("Hello" + name);
+document.querySelector(".Button").addEventListener("click", function() {
+    alert("Button was clicked!");
+});
